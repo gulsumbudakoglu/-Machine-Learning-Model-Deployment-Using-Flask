@@ -1,4 +1,4 @@
-# -Machine-Learning-Model-Deployment-Using-Flask 
+# Machine-Learning-Model-Deployment-Using-Flask 
 
 
 The Machine-Learning-Model-Deployment-Using-Flask project aims to provide a web-based solution for predicting medical insurance costs. The project involves training a machine learning model on a dataset of medical insurance costs and building a Flask application to deploy the model.
