@@ -10,12 +10,12 @@ The project will involve several steps, including data preprocessing, model trai
 This project has practical applications in the healthcare industry, where accurate predictions of medical insurance costs can help insurance providers and healthcare organizations make informed decisions about insurance coverage and healthcare resource allocation. Additionally, this project can serve as a template for other machine learning model deployment projects using Flask.
 
 
-*  USAGE of the Flask we server
+*  USAGE of the Flask:
 To see the prediction of Insurance cost, we are going to run this app using a terminal. Firstly, open our terminal (Linux) or CMD in Windows and export the FLASK_APP env variable with our main Python script name— app.
 
 This is how our Insurance Cost Predictor app works!
 
-<img width="1465" alt="image" src="https://github.com/gulsumbudakoglu/-Machine-Learning-Model-Deployment-Using-Flask/assets/45208333/d00eb13f-5717-4041-b856-f1c23cdc720e">
+<img width="1281" alt="image" src="https://github.com/gulsumbudakoglu/-Machine-Learning-Model-Deployment-Using-Flask/assets/45208333/d9bde62f-7141-45bc-b8b4-8a7f87c151a6">
 
 
 
